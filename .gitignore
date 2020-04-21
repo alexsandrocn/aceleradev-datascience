@@ -1,0 +1,5 @@
+#Ignora cache do python
+__pycache__/
+venv/
+.idea/
+.ipynb_checkpoints/main-checkpoint.ipynb
